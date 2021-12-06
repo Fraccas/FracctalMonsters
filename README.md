@@ -82,13 +82,6 @@ Success Pack Opened
 ![image](https://user-images.githubusercontent.com/3107701/143321913-5c259628-b3eb-412b-9db9-f43439705547.png)
 
 
-
-## Browser Support
-
-At present, we officially aim to support the last two versions of the following browsers:
-
-<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
-
 ## License
 
 https://github.com/Fraccas/FracctalMonsters/blob/main/LICENSE
