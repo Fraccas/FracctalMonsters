@@ -66,7 +66,6 @@ Step 3: Setup backend code  to point to your new pack and dev test account. This
 \smartcontracts\limitorder.js
 Line 39 (add Dev Account Secret Phrase) 
 Line 58 (add Asset ID of created Pack) 
-![image](https://user-images.githubusercontent.com/3107701/143320909-193972cf-1d28-4ed3-9466-57c0778e15c9.png)
 
 buy_nft_packs.component.ts
 Line 47 (add Asset ID of created Pack) 
