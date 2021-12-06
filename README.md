@@ -85,3 +85,13 @@ Success Pack Opened
 ## License
 
 https://github.com/Fraccas/FracctalMonsters/blob/main/LICENSE
+
+## Videos
+
+Pack Opening
+https://www.youtube.com/watch?v=7ZJgN0OP2V4
+
+Unity Game
+https://youtu.be/w-hNzdorNHk
+
+
