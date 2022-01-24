@@ -10,7 +10,7 @@ As a monster taming game, you will need to feed and take care of your pet for it
 The site's frontend is built with Angular with a NodeJS backend. The full game will be built within the Unity game engine, with an ASP.NET backend. 
 
 ## Road Map
-![roadmap](https://user-images.githubusercontent.com/3107701/142560234-11e05fcb-a637-485c-8dba-f70f82a94722.JPG)
+![Fracctal Monsters Timeline](https://user-images.githubusercontent.com/3107701/150718872-47142ed0-3081-42bd-b1bd-b3643d41d8db.png)
 
 
 ## Quick start
